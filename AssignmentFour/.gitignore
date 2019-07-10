@@ -1,0 +1,15 @@
+# Dinosaur images
+dino/*
+
+# Face images
+faces/*
+
+# Report images
+images/*
+
+
+# Latex files
+*.tex
+*.log
+*.aux
+*synctex.gz

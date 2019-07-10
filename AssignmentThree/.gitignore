@@ -1,0 +1,15 @@
+# HEP2 images
+HEP2segmentations/*
+
+# String images
+string/*
+
+# Report images
+images/*
+
+
+# Latex files
+*.tex
+*.log
+*.aux
+*synctex.gz

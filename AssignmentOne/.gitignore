@@ -1,0 +1,13 @@
+# Numberplate images
+numberplates/*
+
+# Report images
+images/*
+
+# Videos
+*.avi
+
+# Latex files
+*.tex
+*.log
+*.aux

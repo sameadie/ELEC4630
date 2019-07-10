@@ -1,0 +1,14 @@
+# Heart images
+MRIheart/*
+
+# Report images
+images/*
+
+# Video
+*.avi 
+
+# Latex files
+*.tex
+*.log
+*.aux
+*synctex.gz
